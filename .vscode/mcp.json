@@ -1,0 +1,15 @@
+{
+	"servers": {
+		"my-mcp-server-27da4cb1": {
+			"type": "stdio",
+			"command": "uv",
+			"args": [
+				"--directory",
+				"C:\\\\Users\\\\ersen\\\\Development\\\\CodeRepos\\\\GitHub\\\\api_to_mcp",
+				"run",
+				"server.py"
+			]
+		}
+	},
+	"inputs": []
+}
